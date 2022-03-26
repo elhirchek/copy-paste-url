@@ -4,7 +4,7 @@ Like its name suggests - copy and paste links into mpv with `ctrl + v` to start 
 
 ## Disclaimer
 
-this is a *fork* of `https://github.com/zenyd/mpv-scripts.git` that a add support for **LINUX**.
+this is a *fork* of [copy-paste-URL](https://github.com/zenyd/mpv-scripts.git) that a add support for **LINUX**.
 
 
 
