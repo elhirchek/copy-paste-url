@@ -16,8 +16,6 @@ end
 function openURL()
    
 	local g = check_os()
-	print('its g')
-	print(g)
 	if g == 'linux' then 
 		subprocess = {
 		name = "subprocess",
