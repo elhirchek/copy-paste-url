@@ -24,7 +24,7 @@ function openURL()
 		capture_stdout = true,
 		capture_stderr = true
 			}
-	elseif g == 'linux' then 
+	elseif g == 'windows' then 
 		subprocess = {
 		name = "subprocess",
 		args = { "powershell", "-Command", "Get-Clipboard", "-Raw" },
